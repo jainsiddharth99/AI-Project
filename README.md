@@ -21,12 +21,6 @@ Thanos vaporizes Rock
 Rock crushes Scissors
 
 ## Dataset
-![](images_data/thanos/1.jpg)
-![](images_data/rock/1.jpg)
-![](images_data/paper/1.jpg)
-![](images_data/scissors/1.jpg)
-![](images_data/snake/1.jpg)
-![](images_data/none/1.jpg)
 I created my own dataset by gathering 200 images of all gestures(
 -Scissors
 -Rock
