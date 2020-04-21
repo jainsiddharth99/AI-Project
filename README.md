@@ -32,7 +32,11 @@ I created my own dataset by gathering 200 images of all gestures(
 ## How game works
 Computer selects a gesture randomly when it detects a movement and displays the results after getting to know what was human's gesture.
 
-
+## Setup
+1. Install reqired libraries
+2. Create your own database by using gather_images.py (I took 200 pictures of each gesture so that it is easy for pc to recognize you hand gesture in differnt positions)
+3. After that use train.py to create training model(If there is too much loss then rerun the file)
+4. Now play your game with play.py
 
 
 
