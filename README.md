@@ -38,6 +38,12 @@ Computer selects a gesture randomly when it detects a movement and displays the 
 3. After that use train.py to create training model(If there is too much loss then rerun the file)
 4. Now play your game with play.py
 
+## Screenshots
+![](images/ss1.png)
+![](images/ss2.png)
+![](images/ss3.png)
+
+
 
 
 
