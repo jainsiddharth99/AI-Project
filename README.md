@@ -3,7 +3,7 @@ This game is a little bit different version of Sheldon Cooper's Stone paper scis
 
 ## Requirements
 - Keras -> to tain the model
-- Tensorflow -> for iamge processing
+- Tensorflow -> for image processing
 - OpenCV -> to use webcam
 
 ## Rules of Game
