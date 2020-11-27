@@ -9,16 +9,16 @@ This game is a little bit different version of Sheldon Cooper's Stone paper scis
 ## Rules of Game
 ![](images/rules.png)
 
-Scissors cuts Paper
-Paper covers Rock
-Rock crushes Snake
-Snake poisons Thanos
-Thanos smashes Scissors
-Scissors decapitates Snake
-Snake eats Paper
-Paper disproves Thanos
-Thanos vaporizes Rock
-Rock crushes Scissors
+- Scissors cuts Paper
+- Paper covers Rock
+- Rock crushes Snake
+- Snake poisons Thanos
+- Thanos smashes Scissors
+- Scissors decapitates Snake
+- Snake eats Paper
+- Paper disproves Thanos
+- Thanos vaporizes Rock
+- Rock crushes Scissors
 
 ## Dataset
 I created my own dataset by gathering 200 images of all gestures(
