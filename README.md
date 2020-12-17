@@ -1,3 +1,4 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 # AI-Project
 This game is a little bit different version of Sheldon Cooper's Stone paper scisscor game. Here I replaced spock with thanos and lizard with snake. 
 
